@@ -8,6 +8,10 @@ Develop a comprehensive report for the following exercises:
 3. Generative AI applications.
 4. Generative AI impact of scaling in LLMs.
 
+```
+Name : Sam Israel D
+Reg. No : 212222230128
+```
 # Output
 
 ## Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
